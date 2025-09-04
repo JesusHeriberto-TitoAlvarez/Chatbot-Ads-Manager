@@ -1,2 +1,2 @@
-# Proyecto-de-grado-Chatbot
- Implementación de Chatbot para facilitar el uso de Google Ads.
+# Chatbot Ads Manager
+ Chatbot con modelos de lenguaje natural GPT para crear campañas publicitarias en Google Ads permitiendo saltar pre requisitos obligatorios de la plataforma.
