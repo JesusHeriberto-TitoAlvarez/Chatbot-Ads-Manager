@@ -1,0 +1,26 @@
+{
+    "ultima_actualizacion": "2025-04-25T19:57:00.495303",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Y quién eres esclavo",
+            "timestamp": "2025-04-25T19:56:08.662832",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-25T19:56:10.186261",
+            "role": "assistant"
+        },
+        {
+            "content": "Quién es tu dueño",
+            "timestamp": "2025-04-25T19:56:54.978340",
+            "role": "user"
+        },
+        {
+            "content": "Este chatbot fue creado por Jesús H. Tito A., con el apoyo de Héctor A. Machicado C., para brindarte ayuda en campañas de Google Ads. ¡Estamos aquí para asistirte en lo que necesites! 😊",
+            "timestamp": "2025-04-25T19:57:00.495303",
+            "role": "assistant"
+        }
+    ]
+}

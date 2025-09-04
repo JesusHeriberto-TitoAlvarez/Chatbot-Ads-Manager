@@ -1,0 +1,56 @@
+{
+    "ultima_actualizacion": "2025-04-29T12:23:47.592953",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-25T17:54:31.265997",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-25T17:54:33.136003",
+            "role": "assistant"
+        },
+        {
+            "content": "Presidente de Bolivia",
+            "timestamp": "2025-04-25T20:22:06.396268",
+            "role": "user"
+        },
+        {
+            "content": "El presidente de Bolivia en 2025 es Luis Arce. ¿Te gustaría saber más sobre publicidad digital o Google Ads? Estoy aquí para ayudarte en lo que necesites. ¡Pregúntame lo que quieras! 🤓",
+            "timestamp": "2025-04-25T20:22:13.409832",
+            "role": "assistant"
+        },
+        {
+            "content": "A los cuantos años murió el papá",
+            "timestamp": "2025-04-25T20:53:35.556944",
+            "role": "user"
+        },
+        {
+            "content": "Lamento la confusión, pero mi especialidad es la publicidad digital, ¿te gustaría saber cómo mejorar tus anuncios en Google Ads o alguna otra pregunta relacionada? Estoy aquí para ayudarte en lo que necesites. ¡No dudes en consultarme! 🤓",
+            "timestamp": "2025-04-25T20:53:43.708620",
+            "role": "assistant"
+        },
+        {
+            "content": "Como puedo realizar una publicidad",
+            "timestamp": "2025-04-25T20:54:34.561714",
+            "role": "user"
+        },
+        {
+            "content": "¡Genial! Para comenzar, es necesario crear una campaña en Google Ads, que es el primer paso obligatorio que exige la plataforma. No te preocupes, este proceso es totalmente gratuito y te permitirá probar cómo funciona la publicidad online. Si estás listo para dar el primer paso, solo escribe *CREAR CAMPAÑA* (todo en mayúsculas y sin signos) y estaré encantado de ayudarte a crear y publicar tus anuncios.",
+            "timestamp": "2025-04-25T20:54:42.019677",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR CAMPAÑA",
+            "timestamp": "2025-04-29T12:23:37.917261",
+            "role": "user"
+        },
+        {
+            "content": "¡BIENVENIDO A GOOGLE ADS! Me encuentro conectado a la plataforma para que podamos crear tus anuncios. Por favor dime tu nombre para poder registrar tu avance en Google.",
+            "timestamp": "2025-04-29T12:23:47.592953",
+            "role": "assistant"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "ultima_actualizacion": "2025-04-25T20:15:22.593987",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-25T20:14:34.702930",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-25T20:14:36.326512",
+            "role": "assistant"
+        },
+        {
+            "content": "Quien es tu creador?",
+            "timestamp": "2025-04-25T20:15:14.649676",
+            "role": "user"
+        },
+        {
+            "content": "Este chatbot fue creado por Jesús H. Tito A., con el apoyo de Héctor A. Machicado C. Su objetivo principal es ayudar a personas con campañas en Google Ads. Si necesitas alguna información adicional o tienes alguna pregunta, ¡no dudes en decírmelo! 😉",
+            "timestamp": "2025-04-25T20:15:22.593987",
+            "role": "assistant"
+        }
+    ]
+}

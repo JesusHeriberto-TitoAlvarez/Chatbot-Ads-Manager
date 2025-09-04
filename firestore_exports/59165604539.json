@@ -1,0 +1,156 @@
+{
+    "ultima_actualizacion": "2025-04-17T14:46:13.878804",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola",
+            "timestamp": "2025-04-17T14:39:35.791348",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-17T14:39:36.756569",
+            "role": "assistant"
+        },
+        {
+            "content": "Quien es tu creador",
+            "timestamp": "2025-04-17T14:39:56.215397",
+            "role": "user"
+        },
+        {
+            "content": "Quien es tu creador",
+            "timestamp": "2025-04-17T14:39:59.991953",
+            "role": "user"
+        },
+        {
+            "content": "Este chatbot es un proyecto desarrollado por *Jesús H. Tito A.* y contó con el apoyo de *Héctor A. Machicado C.* Nuestro objetivo es ayudar a personas como tú a comprender y utilizar de manera efectiva las campañas en Google Ads. ¡Estamos aquí para asistirte en lo que necesites! 😉",
+            "timestamp": "2025-04-17T14:40:00.054447",
+            "role": "assistant"
+        },
+        {
+            "content": "Este chatbot es un proyecto desarrollado por *Jesús H. Tito A.* y contó con el apoyo de *Héctor A. Machicado C.* Nuestro objetivo es ayudar a personas como tú a comprender y utilizar de manera efectiva las campañas en Google Ads. ¡Estamos aquí para asistirte en lo que necesites! 😉",
+            "timestamp": "2025-04-17T14:40:00.581002",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es Flask y para que sirve??? Cual es su diferencia con Unicorn??",
+            "timestamp": "2025-04-17T14:42:19.369277",
+            "role": "user"
+        },
+        {
+            "content": "Que es Flask y para que sirve??? Cual es su diferencia con Unicorn??",
+            "timestamp": "2025-04-17T14:42:22.380923",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad online de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una pastelería en La Paz, puedes usar Google Ads para mostrar tus deliciosos pasteles a personas que buscan \"pastelería en La Paz\" en Google. Así, atraerás más clientes a tu negocio de manera efectiva. ¡Es como tener un cartel virtual en la calle principal de tu ciudad! 😉🍰",
+            "timestamp": "2025-04-17T14:42:22.418115",
+            "role": "assistant"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad online de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una pastelería en La Paz, puedes usar Google Ads para mostrar tus deliciosos pasteles a personas que buscan \"pastelería en La Paz\" en Google. Así, atraerás más clientes a tu negocio de manera efectiva. ¡Es como tener un cartel virtual en la calle principal de tu ciudad! 😉🍰",
+            "timestamp": "2025-04-17T14:42:23.042858",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es Flask y para que sirve??? Cual es su diferencia con Unicorn??",
+            "timestamp": "2025-04-17T14:42:35.285153",
+            "role": "user"
+        },
+        {
+            "content": "Que es Flask y para que sirve??? Cual es su diferencia con Unicorn??",
+            "timestamp": "2025-04-17T14:42:38.711241",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una tienda de repuestos en La Paz, puedes usar Google Ads para mostrar tus productos a personas que buscan \"repuestos para autos\" en Google. Así, atraerás más clientes a tu tienda de manera efectiva. ¡Es como tener un letrero gigante en la autopista digital! 😉🚗",
+            "timestamp": "2025-04-17T14:42:38.761859",
+            "role": "assistant"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una tienda de repuestos en La Paz, puedes usar Google Ads para mostrar tus productos a personas que buscan \"repuestos para autos\" en Google. Así, atraerás más clientes a tu tienda de manera efectiva. ¡Es como tener un letrero gigante en la autopista digital! 😉🚗",
+            "timestamp": "2025-04-17T14:42:39.424696",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es Flask y para que sirve??? Cual es su diferencia con Unicorn??",
+            "timestamp": "2025-04-17T14:42:52.207552",
+            "role": "user"
+        },
+        {
+            "content": "Que es Flask y para que sirve??? Cual es su diferencia con Unicorn??",
+            "timestamp": "2025-04-17T14:42:57.709181",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una ferretería en La Paz, puedes usar Google Ads para mostrar tus productos a personas que buscan \"materiales de construcción\" en Google. Así, atraerás más clientes a tu tienda de manera efectiva. ¡Es como tener un cartel luminoso en la avenida principal de tu ciudad! 😉🔧",
+            "timestamp": "2025-04-17T14:42:57.736578",
+            "role": "assistant"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una ferretería en La Paz, puedes usar Google Ads para mostrar tus productos a personas que buscan \"materiales de construcción\" en Google. Así, atraerás más clientes a tu tienda de manera efectiva. ¡Es como tener un cartel luminoso en la avenida principal de tu ciudad! 😉🔧",
+            "timestamp": "2025-04-17T14:42:58.383880",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es flash???",
+            "timestamp": "2025-04-17T14:43:10.652015",
+            "role": "user"
+        },
+        {
+            "content": "Flash es una tecnología de software multimedia desarrollada por Macromedia (ahora propiedad de Adobe) que se utilizaba para crear animaciones interactivas, juegos, aplicaciones web y reproducción de videos en páginas web. Sin embargo, Flash ha sido descontinuado y ya no es compatible con muchos navegadores web debido a problemas de seguridad y rendimiento. Se recomienda utilizar tecnologías como HTML5, CSS y JavaScript para crear contenido web interactivo en la actualidad. Si encuentras contenido que requiere Flash en la web, es posible que necesites habilitar un emulador o una extensión de navegador para visualizarlo.",
+            "timestamp": "2025-04-17T14:43:14.794568",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es flask???",
+            "timestamp": "2025-04-17T14:43:32.045114",
+            "role": "user"
+        },
+        {
+            "content": "Que es flask???",
+            "timestamp": "2025-04-17T14:43:35.101002",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una pastelería en La Paz, puedes usar Google Ads para mostrar tus deliciosos pasteles a personas que buscan \"pastelería en La Paz\" en Google. Así, atraerás más clientes a tu negocio de manera efectiva. ¡Es como tener un cartel virtual en la calle principal de tu ciudad! 😉🍰",
+            "timestamp": "2025-04-17T14:43:35.148210",
+            "role": "assistant"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una pastelería en La Paz, puedes usar Google Ads para mostrar tus deliciosos pasteles a personas que buscan \"pastelería en La Paz\" en Google. Así, atraerás más clientes a tu negocio de manera efectiva. ¡Es como tener un cartel virtual en la calle principal de tu ciudad! 😉🍰",
+            "timestamp": "2025-04-17T14:43:35.770420",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es Flask???",
+            "timestamp": "2025-04-17T14:44:59.745444",
+            "role": "user"
+        },
+        {
+            "content": "Que es Flask???",
+            "timestamp": "2025-04-17T14:45:03.633679",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una tienda de repuestos en La Paz, puedes usar Google Ads para mostrar tus productos a personas que buscan \"repuestos para autos\" en Google. Así, atraerás más clientes a tu tienda de manera efectiva. ¡Es como tener un letrero gigante en la autopista digital! 😉🚗",
+            "timestamp": "2025-04-17T14:45:03.681656",
+            "role": "assistant"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una tienda de repuestos en La Paz, puedes usar Google Ads para mostrar tus productos a personas que buscan \"repuestos para autos\" en Google. Así, atraerás más clientes a tu tienda de manera efectiva. ¡Es como tener un letrero gigante en la autopista digital! 😉🚗",
+            "timestamp": "2025-04-17T14:45:04.348576",
+            "role": "assistant"
+        },
+        {
+            "content": "Diferencia entre flask y unicorn???",
+            "timestamp": "2025-04-17T14:46:09.294786",
+            "role": "user"
+        },
+        {
+            "content": "Flask y Unicorn son herramientas utilizadas en el desarrollo web, pero tienen propósitos diferentes. \n- Flask es un framework de Python para crear aplicaciones web de manera sencilla y rápida. Es ligero y flexible, ideal para proyectos pequeños y medianos.\n- Unicorn, por otro lado, es un servidor HTTP para aplicaciones web en Ruby. Se utiliza para servir aplicaciones web Ruby on Rails de forma eficiente y escalable. \nEn resumen, Flask se enfoca en el desarrollo de la aplicación web en Python, mientras que Unicorn se encarga de servir esa aplicación web de Ruby. ¡Espero que esta información te haya sido útil! 😉🐍🦄",
+            "timestamp": "2025-04-17T14:46:13.878804",
+            "role": "assistant"
+        }
+    ]
+}

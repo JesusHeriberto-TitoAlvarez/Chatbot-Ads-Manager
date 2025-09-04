@@ -1,0 +1,66 @@
+{
+    "ultima_actualizacion": "2025-04-10T18:43:42.507714",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-09T21:02:57.235055",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-09T21:02:58.622099",
+            "role": "assistant"
+        },
+        {
+            "content": "Bueno",
+            "timestamp": "2025-04-09T21:10:07.404505",
+            "role": "user"
+        },
+        {
+            "content": "¡Hola de nuevo! Recuerda que estoy aquí para responder cualquier pregunta que tengas sobre Google Ads. ¿En qué puedo ayudarte hoy? 😊",
+            "timestamp": "2025-04-09T21:10:11.056378",
+            "role": "assistant"
+        },
+        {
+            "content": "Ayúdame",
+            "timestamp": "2025-04-09T21:10:11.143306",
+            "role": "user"
+        },
+        {
+            "content": "¡Claro que sí! Cuéntame en qué necesitas ayuda con Google Ads y estaré encantado de orientarte en todo lo que pueda. 😊 ¡Estoy aquí para ayudarte!",
+            "timestamp": "2025-04-09T21:10:13.735872",
+            "role": "assistant"
+        },
+        {
+            "content": "Sabes que es matemáticas",
+            "timestamp": "2025-04-09T21:10:46.065914",
+            "role": "user"
+        },
+        {
+            "content": "¡Claro que sí! Las matemáticas son una disciplina que se encarga del estudio de los números, las estructuras, las formas y los cambios. Se utilizan para resolver problemas, medir, contar, modelar situaciones del mundo real y mucho más. ¿Necesitas ayuda con algún tema en particular de matemáticas? ¡Estoy aquí para ayudarte! 😊🧮",
+            "timestamp": "2025-04-09T21:10:49.965515",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es diabético",
+            "timestamp": "2025-04-09T21:11:16.897719",
+            "role": "user"
+        },
+        {
+            "content": "La diabetes es una enfermedad crónica que afecta la forma en que tu cuerpo convierte los alimentos en energía. Cuando tienes diabetes, tu cuerpo tiene dificultades para manejar los niveles de azúcar en la sangre. Hay dos tipos principales de diabetes: tipo 1, donde el cuerpo no produce insulina, y tipo 2, donde el cuerpo no utiliza la insulina de manera efectiva. Es importante controlar la diabetes con medicamentos, dieta y ejercicio para prevenir complicaciones. ¿Te gustaría saber más sobre este tema? ¡Estoy aquí para responder tus preguntas! 😊🩺",
+            "timestamp": "2025-04-09T21:11:19.888038",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es medicina",
+            "timestamp": "2025-04-10T18:43:34.439699",
+            "role": "user"
+        },
+        {
+            "content": "La medicina es el campo de la ciencia que se enfoca en el estudio, diagnóstico, tratamiento y prevención de enfermedades y trastornos en el cuerpo humano. Los profesionales de la medicina, como médicos y enfermeras, se dedican a cuidar la salud y el bienestar de las personas. La medicina abarca diversas áreas, como la medicina general, especialidades médicas (como cardiología, pediatría, etc.), cirugía, farmacología, entre otras. ¿Te gustaría saber más sobre algún aspecto específico de la medicina? ¡Estoy aquí para ayudarte! 😊🩺",
+            "timestamp": "2025-04-10T18:43:42.507714",
+            "role": "assistant"
+        }
+    ]
+}

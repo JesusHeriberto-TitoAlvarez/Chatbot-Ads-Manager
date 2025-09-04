@@ -1,0 +1,16 @@
+{
+    "ultima_actualizacion": "2025-04-08T02:48:08.799172",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-08T02:48:07.783426",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-08T02:48:08.799172",
+            "role": "assistant"
+        }
+    ]
+}

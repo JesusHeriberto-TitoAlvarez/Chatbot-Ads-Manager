@@ -1,0 +1,26 @@
+# Ignorar archivos sensibles
+.env
+config/.env
+CredentialsGoogleAds.json
+google-ads.yaml  # Agregado para evitar subir la configuración de Google Ads
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Ignorar archivos de dependencias temporales
+*.log
+.DS_Store
+
+# Ignorar archivos de configuración específicos
+.gcloudignore
+config/app.yaml
+
+# Ignorar archivos de compilación (si en el futuro usare Docker)
+docker-compose.override.yml
+

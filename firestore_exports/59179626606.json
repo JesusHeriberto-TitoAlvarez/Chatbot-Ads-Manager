@@ -1,0 +1,36 @@
+{
+    "ultima_actualizacion": "2025-04-25T20:31:18.818127",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-25T20:21:51.264249",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-25T20:21:52.722800",
+            "role": "assistant"
+        },
+        {
+            "content": "Quien es el dueño",
+            "timestamp": "2025-04-25T20:29:49.437000",
+            "role": "user"
+        },
+        {
+            "content": "Este chatbot fue creado por Jesús H. Tito A., con el apoyo de Héctor A. Machicado C. Está diseñado para ayudar a personas con campañas en Google Ads. Si tienes alguna pregunta o necesitas ayuda, ¡no dudes en decírmelo! Estoy aquí para asistirte en lo que necesites. 😊",
+            "timestamp": "2025-04-25T20:29:56.633621",
+            "role": "assistant"
+        },
+        {
+            "content": "Cómo adecuaría en publicidad a la Carrera de Administración de Empresas del instituto tecnológico don bosco",
+            "timestamp": "2025-04-25T20:31:07.302511",
+            "role": "user"
+        },
+        {
+            "content": "Para promocionar la Carrera de Administración de Empresas del Instituto Tecnológico Don Bosco en La Paz, una estrategia efectiva sería crear una campaña en Google Ads. Esta campaña estaría dirigida a personas interesadas en estudiar administración en esta institución.\n\nSe podrían utilizar palabras clave como \"carrera de administración en La Paz\" o \"estudiar administración en el ITDB\" para atraer a posibles estudiantes. Los anuncios deberían resaltar los beneficios de la carrera, como las oportunidades laborales, el plan de estudios y el perfil del egresado.\n\nAdemás, se podría segmentar la campaña por ubicación geográfica, edad y preferencias para llegar al público objetivo de manera precisa. De esta manera, se lograría atraer a más estudiantes potenciales interesados en esta carrera. ¿Te gustaría que te ayude a crear una campaña para promocionar esta carrera de manera efectiva? ¡Estoy aquí para ayudarte en lo que necesites! 😊🎓",
+            "timestamp": "2025-04-25T20:31:18.818127",
+            "role": "assistant"
+        }
+    ]
+}

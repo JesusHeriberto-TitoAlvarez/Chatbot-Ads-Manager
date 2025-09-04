@@ -1,0 +1,66 @@
+{
+  "nombre": "Usuario",
+  "historial": [
+    {
+      "role": "user",
+      "content": "Hola, quiero informaci\u00f3n",
+      "timestamp": "2025-03-31T16:48:53.913192"
+    },
+    {
+      "role": "assistant",
+      "content": "\u00a1Hola! Es un placer conocerte. \ud83d\ude04\n\nSoy *Chatbot Ads Manager*, tu asistente digital especializado en *Google Ads*.\n\nEstoy aqu\u00ed para ense\u00f1arte lo necesario y guiarte en la *creaci\u00f3n de campa\u00f1as publicitarias* para tu empresa o emprendimiento, sin que necesites experiencia previa. \ud83d\ude80\n\nAntes de continuar, \u00bfc\u00f3mo te gustar\u00eda que te llame durante nuestra conversaci\u00f3n?\n\nEsto me permitir\u00e1 *guardar tu avance* y ayudarte de forma personalizada. \ud83d\ude0a",
+      "timestamp": "2025-03-31T16:48:56.157148"
+    },
+    {
+      "role": "user",
+      "content": "me llamo tito",
+      "timestamp": "2025-03-31T16:49:48.252239"
+    },
+    {
+      "role": "assistant",
+      "content": "\u00a1Hola, Tito! \u00bfEn qu\u00e9 puedo ayudarte hoy? Si tienes alguna pregunta o necesitas asistencia con Google Ads, \u00a1estar\u00e9 encantado de ayudarte! \ud83d\ude0a",
+      "timestamp": "2025-03-31T16:49:54.686099"
+    },
+    {
+      "role": "user",
+      "content": "sabes mi nombre",
+      "timestamp": "2025-03-31T16:50:22.692985"
+    },
+    {
+      "role": "assistant",
+      "content": "\u00a1Hola de nuevo, Tito! S\u00ed, recuerdo tu nombre. \u00bfEn qu\u00e9 puedo ayudarte hoy con Google Ads? Estoy aqu\u00ed para responder cualquier pregunta que tengas o brindarte la asistencia que necesites. \u00a1Dime en qu\u00e9 puedo colaborar contigo! \ud83d\ude0a",
+      "timestamp": "2025-03-31T16:50:39.073956"
+    },
+    {
+      "role": "user",
+      "content": "para que me dijiste que necesitas mi nombre???",
+      "timestamp": "2025-03-31T16:52:06.313214"
+    },
+    {
+      "role": "assistant",
+      "content": "\u00a1Hola, Tito! Te ped\u00ed tu nombre al inicio para poder personalizar nuestra conversaci\u00f3n y brindarte una atenci\u00f3n m\u00e1s personalizada. As\u00ed puedo recordar qui\u00e9n eres y adaptar mis respuestas a tus necesidades espec\u00edficas. \u00bfEn qu\u00e9 m\u00e1s puedo ayudarte hoy con Google Ads? Estoy aqu\u00ed para responder cualquier pregunta que tengas. \ud83d\ude0a",
+      "timestamp": "2025-03-31T16:52:13.405104"
+    },
+    {
+      "role": "user",
+      "content": "Hola, quiero informaci\u00f3n",
+      "timestamp": "2025-03-31T18:00:27.841376"
+    },
+    {
+      "role": "assistant",
+      "content": "\u00a1Hola, Tito! \u00a1Claro, estar\u00e9 encantado de proporcionarte la informaci\u00f3n que necesitas! \u00bfEn qu\u00e9 aspecto espec\u00edfico de Google Ads te gustar\u00eda obtener m\u00e1s detalles? Estoy aqu\u00ed para ayudarte, as\u00ed que no dudes en preguntar cualquier duda que tengas. \ud83d\ude0a",
+      "timestamp": "2025-03-31T18:00:34.718561"
+    },
+    {
+      "role": "user",
+      "content": "recuerdas mi nombre?",
+      "timestamp": "2025-03-31T18:01:05.084669"
+    },
+    {
+      "role": "assistant",
+      "content": "\u00a1Hola, Tito! S\u00ed, recuerdo tu nombre. \u00bfEn qu\u00e9 puedo ayudarte hoy con Google Ads? Estoy aqu\u00ed para responder cualquier pregunta que tengas. \u00a1Adelante con tu consulta! \ud83d\ude0a",
+      "timestamp": "2025-03-31T18:01:09.983696"
+    }
+  ],
+  "ultima_actualizacion": "2025-03-31T18:01:09.983696"
+}

@@ -1,0 +1,176 @@
+{
+    "ultima_actualizacion": "2025-04-29T10:14:09.616592",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-29T10:07:04.237657",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-29T10:07:05.855493",
+            "role": "assistant"
+        },
+        {
+            "content": "Quien es tu creador???",
+            "timestamp": "2025-04-29T10:07:27.291254",
+            "role": "user"
+        },
+        {
+            "content": "Este chatbot fue creado por Jesús H. Tito A., con el apoyo de Héctor A. Machicado C. \n\nFue diseñado con el propósito de ayudar a las personas a comprender y utilizar de manera efectiva las campañas en Google Ads. ¡Espero poder ser de ayuda en tus proyectos de publicidad digital! 😊🚀",
+            "timestamp": "2025-04-29T10:07:34.595913",
+            "role": "assistant"
+        },
+        {
+            "content": "Que es google ads???",
+            "timestamp": "2025-04-29T10:07:45.330220",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad online de Google que te permite promocionar tu negocio en Internet. \n\nImagínate que tienes una pastelería en La Paz y quieres llegar a más clientes. Con Google Ads, puedes crear anuncios que aparezcan en los resultados de búsqueda cuando alguien busque \"pastelería en La Paz\", así más personas conocerán tu negocio. \n\nEs una herramienta poderosa para aumentar la visibilidad y las ventas de tu empresa. ¡Anímate a probarlo! 🍰📊",
+            "timestamp": "2025-04-29T10:07:59.144851",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR CAMPAÑA",
+            "timestamp": "2025-04-29T10:08:17.284854",
+            "role": "user"
+        },
+        {
+            "content": "¡Bienvenido a Google Ads! Me encuentro conectado a la plataforma para que podamos crear tus anuncios. Por favor dime tu nombre para poder registrar tu avance en Google.",
+            "timestamp": "2025-04-29T10:08:20.483076",
+            "role": "assistant"
+        },
+        {
+            "content": "Me llamo tito",
+            "timestamp": "2025-04-29T10:08:27.077129",
+            "role": "user"
+        },
+        {
+            "content": "¡Gracias por compartir tu nombre, Tito! ¿Podrías indicarme el nombre de tu empresa o emprendimiento para que podamos avanzar con tu campaña publicitaria?",
+            "timestamp": "2025-04-29T10:08:34.109498",
+            "role": "assistant"
+        },
+        {
+            "content": "Mi empresa se llama zorg",
+            "timestamp": "2025-04-29T10:08:49.828748",
+            "role": "user"
+        },
+        {
+            "content": "¡Entendido, Zorg! Ahora, ¿en qué ciudad o departamento de Bolivia deseas que se muestren tus anuncios?",
+            "timestamp": "2025-04-29T10:08:56.854666",
+            "role": "assistant"
+        },
+        {
+            "content": "En tarija.",
+            "timestamp": "2025-04-29T10:09:15.571864",
+            "role": "user"
+        },
+        {
+            "content": "Perfecto, Tito. ¿Cuánto podrías invertir por día en tu campaña publicitaria? Recuerda que este monto es simbólico y no se cobrará nada.",
+            "timestamp": "2025-04-29T10:09:22.838066",
+            "role": "assistant"
+        },
+        {
+            "content": "Unos 25 Bs.",
+            "timestamp": "2025-04-29T10:09:36.507574",
+            "role": "user"
+        },
+        {
+            "content": "Entendido, Tito. Para completar tu anuncio, por favor envíame 3 títulos separados por un guion. Ejemplo: Gran oferta - Compra fácil - Promoción especial",
+            "timestamp": "2025-04-29T10:09:44.990790",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR TITULOS",
+            "timestamp": "2025-04-29T10:10:08.196142",
+            "role": "user"
+        },
+        {
+            "content": "Para poder ayudarte a crear los mejores títulos, necesito que me cuentes de forma breve a qué se dedica tu negocio y cuál es tu principal objetivo con estos anuncios.",
+            "timestamp": "2025-04-29T10:10:14.119951",
+            "role": "assistant"
+        },
+        {
+            "content": "Mi empresa vende jugutes y el objetivo es llegar mas a los niños.",
+            "timestamp": "2025-04-29T10:10:44.318016",
+            "role": "user"
+        },
+        {
+            "content": "¡Gracias por confiar en mí! 🙌\nEstos son los títulos que registré para tu anuncio:\n• Juguetes divertidos\n• Diversión para niños\n• Encuentra tus juguetes\n\nAhora, por favor envíame 3 descripciones separadas por guiones. Ejemplo: Somos los mejores en la ciudad - Contáctate con nosotros - Descuentos por tiempo limitado.",
+            "timestamp": "2025-04-29T10:10:52.568535",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR DESCRIPCIONES",
+            "timestamp": "2025-04-29T10:11:11.076117",
+            "role": "user"
+        },
+        {
+            "content": "Claro, Tito. Para poder ayudarte a crear las mejores descripciones, necesito que me cuentes cuál es tu producto o servicio más importante, y qué beneficio lo hace especial o diferente frente a otros negocios.",
+            "timestamp": "2025-04-29T10:11:15.366732",
+            "role": "assistant"
+        },
+        {
+            "content": "Lo mejor son los autos a control remoto y tenemos buenos precios.",
+            "timestamp": "2025-04-29T10:11:53.146885",
+            "role": "user"
+        },
+        {
+            "content": "¡Perfecto! 🙌 Estas son las descripciones que preparé para tu anuncio:\n• Autos control remoto\n• Precios competitivos\n• Diversión garantizada\n\nPara seguir afinando tu anuncio, por favor dime 3 *palabras clave* separadas por guiones que ayuden a que los clientes encuentren fácilmente tu negocio en Google. Ejemplo: Juguete - Diversión - Niños.",
+            "timestamp": "2025-04-29T10:12:01.680604",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR PALABRAS CLAVE",
+            "timestamp": "2025-04-29T10:12:13.953921",
+            "role": "user"
+        },
+        {
+            "content": "Entiendo que vendes autos a control remoto y quieres que personas interesadas en diversión y buenos precios encuentren tu anuncio. Ahora necesito que me digas 3 palabras clave que representen tu negocio y atraigan a tus clientes ideales.",
+            "timestamp": "2025-04-29T10:12:18.366416",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR PALABRAS CLAVE",
+            "timestamp": "2025-04-29T10:12:35.964564",
+            "role": "user"
+        },
+        {
+            "content": "¿Qué palabras te vienen a la mente cuando piensas en los autos a control remoto? Quiero ayudarte a encontrar las palabras clave perfectas para atraer a tus clientes ideales.",
+            "timestamp": "2025-04-29T10:12:39.550872",
+            "role": "assistant"
+        },
+        {
+            "content": "¿Qué palabras te vienen a la mente cuando piensas en los autos a control remoto? Quiero ayudarte a encontrar las palabras clave perfectas para atraer a tus clientes ideales.",
+            "timestamp": "2025-04-29T10:12:41.583856",
+            "role": "assistant"
+        },
+        {
+            "content": "Diversiom con los amigos y precios bajos.",
+            "timestamp": "2025-04-29T10:13:17.169761",
+            "role": "user"
+        },
+        {
+            "content": "Entiendo que estás buscando diversión con amigos a precios bajos. ¿Qué productos o servicios ofreces para lograrlo y a qué tipo de personas quieres llegar con tus anuncios? Y si deseas salir del proceso, puedes escribir SALIR en mayúsculas y sin signos de puntuación.",
+            "timestamp": "2025-04-29T10:13:21.601009",
+            "role": "assistant"
+        },
+        {
+            "content": "Entiendo que estás buscando diversión con amigos a precios bajos. ¿Qué productos o servicios ofreces para lograrlo y a qué tipo de personas quieres llegar con tus anuncios? Y si deseas salir del proceso, puedes escribir SALIR en mayúsculas y sin signos de puntuación.",
+            "timestamp": "2025-04-29T10:13:22.238925",
+            "role": "assistant"
+        },
+        {
+            "content": "Ofresco autos a control remoti y quiero llegar a los niños.",
+            "timestamp": "2025-04-29T10:14:01.677432",
+            "role": "user"
+        },
+        {
+            "content": "¡Genial! 🎉 Estas son las palabras clave que registramos para tu anuncio:\n• autos control remoto\n• diversión niños\n• juguetes tecnológicos\n\n¡Felicidades! 🎯 Has completado con éxito la creación de tus anuncios en Google Ads. Pronto estará activo para ayudarte a conseguir más clientes.",
+            "timestamp": "2025-04-29T10:14:09.616592",
+            "role": "assistant"
+        }
+    ]
+}

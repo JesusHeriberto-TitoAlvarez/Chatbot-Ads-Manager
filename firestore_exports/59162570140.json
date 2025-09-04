@@ -1,0 +1,46 @@
+{
+    "ultima_actualizacion": "2025-04-07T23:34:22.080926",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola, quiero aprender a usar Google Ads.",
+            "timestamp": "2025-04-07T23:33:52.303462",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-07T23:33:53.635254",
+            "role": "assistant"
+        },
+        {
+            "content": ":v",
+            "timestamp": "2025-04-07T23:33:53.749300",
+            "role": "user"
+        },
+        {
+            "content": "¿En qué más puedo ayudarte hoy? 😄",
+            "timestamp": "2025-04-07T23:33:56.012840",
+            "role": "assistant"
+        },
+        {
+            "content": "Virus:v",
+            "timestamp": "2025-04-07T23:34:06.664285",
+            "role": "user"
+        },
+        {
+            "content": "¿En qué más puedo ayudarte hoy? 😊",
+            "timestamp": "2025-04-07T23:34:08.468059",
+            "role": "assistant"
+        },
+        {
+            "content": "XD",
+            "timestamp": "2025-04-07T23:34:20.331517",
+            "role": "user"
+        },
+        {
+            "content": "¿Hay algo específico sobre Google Ads que te gustaría saber? Estoy aquí para ayudarte. 😄",
+            "timestamp": "2025-04-07T23:34:22.080926",
+            "role": "assistant"
+        }
+    ]
+}

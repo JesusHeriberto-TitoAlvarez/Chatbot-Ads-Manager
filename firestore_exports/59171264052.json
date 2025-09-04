@@ -1,0 +1,306 @@
+{
+    "ultima_actualizacion": "2025-04-29T07:11:57.451368",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola.",
+            "timestamp": "2025-04-29T03:52:40.164161",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-29T03:52:41.611931",
+            "role": "assistant"
+        },
+        {
+            "content": "que es google ads??",
+            "timestamp": "2025-04-29T03:54:22.571911",
+            "role": "user"
+        },
+        {
+            "content": "Google Ads es una plataforma de publicidad en línea de Google que te permite crear anuncios para promocionar tu negocio en Internet. Por ejemplo, si tienes una pastelería en La Paz, puedes usar Google Ads para mostrar tus pasteles a personas que buscan \"pastelerías en La Paz\" en Google. Es una forma efectiva de llegar a más clientes potenciales y aumentar tus ventas. ¿Te gustaría saber más?",
+            "timestamp": "2025-04-29T03:54:33.521944",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR CAMPAÑA",
+            "timestamp": "2025-04-29T03:54:41.749895",
+            "role": "user"
+        },
+        {
+            "content": "¡Claro! Para empezar, necesitaré algunos detalles sobre tu negocio y tus objetivos publicitarios. ¿Cuál es el nombre de tu empresa y qué tipo de productos o servicios te gustaría promocionar?",
+            "timestamp": "2025-04-29T03:54:44.606525",
+            "role": "assistant"
+        },
+        {
+            "content": "Me llamo tito",
+            "timestamp": "2025-04-29T03:54:58.389401",
+            "role": "user"
+        },
+        {
+            "content": "¡Hola Tito! Un gusto conocerte. Ahora que tengo tu nombre, ¿podrías contarme un poco más sobre tu emprendimiento y qué te gustaría promocionar con la campaña publicitaria en Google Ads?",
+            "timestamp": "2025-04-29T03:55:04.253560",
+            "role": "assistant"
+        },
+        {
+            "content": "se llama Manager",
+            "timestamp": "2025-04-29T03:55:19.062299",
+            "role": "user"
+        },
+        {
+            "content": "Entendido, Tito. ¿En qué ciudad o departamento de Bolivia deseas que se muestren tus anuncios? Quiero asegurarme de que tus anuncios lleguen a la audiencia adecuada.",
+            "timestamp": "2025-04-29T03:55:25.204189",
+            "role": "assistant"
+        },
+        {
+            "content": "La Paz porf avor.",
+            "timestamp": "2025-04-29T03:55:34.083856",
+            "role": "user"
+        },
+        {
+            "content": "Perfecto, Tito. ¿Cuánto podrías invertir por día en tu campaña publicitaria? Recuerda que este monto es simbólico y no se cobrará nada. Quiero asegurarme de ajustar la campaña a tus necesidades y objetivos.",
+            "timestamp": "2025-04-29T03:55:40.131127",
+            "role": "assistant"
+        },
+        {
+            "content": "unos 100 BS.",
+            "timestamp": "2025-04-29T03:55:50.406940",
+            "role": "user"
+        },
+        {
+            "content": "Entendido, Tito. Para completar tu anuncio, por favor envíame 3 títulos separados por un guion. Quiero que sean llamativos y representen lo mejor de tu emprendimiento.",
+            "timestamp": "2025-04-29T03:55:59.628449",
+            "role": "assistant"
+        },
+        {
+            "content": "NO SE ME OCURRE NADA.",
+            "timestamp": "2025-04-29T03:56:25.862430",
+            "role": "user"
+        },
+        {
+            "content": "Entiendo que puede ser complicado pensar en los títulos. ¿Te gustaría que te ayude a crear los títulos? Puedo generar algunas ideas para ti. Si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T03:56:29.838349",
+            "role": "assistant"
+        },
+        {
+            "content": "Entiendo que puede ser complicado pensar en los títulos. ¿Te gustaría que te ayude a crear los títulos? Puedo generar algunas ideas para ti. Si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T03:56:31.051545",
+            "role": "assistant"
+        },
+        {
+            "content": "Si por favor",
+            "timestamp": "2025-04-29T03:56:47.056085",
+            "role": "user"
+        },
+        {
+            "content": "Perfecto, estoy aquí para ayudarte. Necesito que me envíes 3 títulos publicitarios separados por guiones, como en este ejemplo: Gran oferta - Compra fácil - Promoción especial. Si deseas, también puedes escribir CREAR TITULOS en mayúsculas y yo te ayudaré a generarlos automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T03:56:50.651762",
+            "role": "assistant"
+        },
+        {
+            "content": "Perfecto, estoy aquí para ayudarte. Necesito que me envíes 3 títulos publicitarios separados por guiones, como en este ejemplo: Gran oferta - Compra fácil - Promoción especial. Si deseas, también puedes escribir CREAR TITULOS en mayúsculas y yo te ayudaré a generarlos automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T03:56:51.284704",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR TITULOS",
+            "timestamp": "2025-04-29T03:56:57.561101",
+            "role": "user"
+        },
+        {
+            "content": "Para poder ayudarte a crear los mejores títulos, necesito que me cuentes de forma breve a qué se dedica tu negocio y cuál es tu principal objetivo con estos anuncios.",
+            "timestamp": "2025-04-29T03:57:01.382101",
+            "role": "assistant"
+        },
+        {
+            "content": "Mi empresa hace publicidad para otros negocios y mi objetivo es llegar a mas gente",
+            "timestamp": "2025-04-29T03:57:32.343326",
+            "role": "user"
+        },
+        {
+            "content": "¡Gracias por confiar en mí! 🙌\nEstos son los títulos que registré para tu anuncio:\n• Publicidad efectiva\n• Alcance amplio\n• Aumenta visibilidad\n\nAhora, por favor envíame 3 descripciones separadas por guiones. Ejemplo: Somos expertos en publicidad digital - Llega a un público más amplio - Aumenta tus ventas.",
+            "timestamp": "2025-04-29T03:57:39.267448",
+            "role": "assistant"
+        },
+        {
+            "content": "se me ocurre Ven con nostros y genera mas recurso - Solicita una cita y te atendemos - Somos la mejor opcion para ti. Esta bien?",
+            "timestamp": "2025-04-29T03:58:48.686903",
+            "role": "user"
+        },
+        {
+            "content": "¡Entendido! Tengo tus descripciones publicitarias registradas. Ahora para seguir afinando tu anuncio, por favor dime 3 palabras clave separadas por guiones que ayuden a que los clientes encuentren fácilmente tu negocio en Google. Recuerda que entre más específicas sean, mejor.",
+            "timestamp": "2025-04-29T03:58:55.303222",
+            "role": "assistant"
+        },
+        {
+            "content": "no se me ocurre nada.",
+            "timestamp": "2025-04-29T03:59:43.643650",
+            "role": "user"
+        },
+        {
+            "content": "Entiendo, no hay problema. Si en algún momento necesitas ayuda para crear las descripciones, solo tienes que escribir CREAR DESCRIPCIONES en mayúsculas y yo te ayudaré a generarlas automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T03:59:46.873769",
+            "role": "assistant"
+        },
+        {
+            "content": "Entiendo, no hay problema. Si en algún momento necesitas ayuda para crear las descripciones, solo tienes que escribir CREAR DESCRIPCIONES en mayúsculas y yo te ayudaré a generarlas automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T03:59:47.528333",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR DESCRIPCIONES",
+            "timestamp": "2025-04-29T04:00:01.903881",
+            "role": "user"
+        },
+        {
+            "content": "Claro, estaré encantado de ayudarte a crear las descripciones. Para empezar, me gustaría saber cuál es tu producto o servicio más importante y qué lo hace especial o diferente frente a otros negocios. Con esa información podré generar descripciones más efectivas.",
+            "timestamp": "2025-04-29T04:00:06.250408",
+            "role": "assistant"
+        },
+        {
+            "content": "Nuestra tencio es inmediata y nuestra especialidad es comprender lo que los negocios necesitan.",
+            "timestamp": "2025-04-29T04:02:01.565111",
+            "role": "user"
+        },
+        {
+            "content": "¡Perfecto! 🙌 Estas son las descripciones que preparé para tu anuncio:\n• Atención inmediata\n• Especialistas en necesidades\n• Comprensión de negocios\n\nPara seguir afinando tu anuncio, por favor dime 3 *palabras clave* separadas por guiones que ayuden a que los clientes encuentren fácilmente tu negocio en Google. Ejemplo: Ropero - Servicio legal - Celular.",
+            "timestamp": "2025-04-29T04:02:10.255696",
+            "role": "assistant"
+        },
+        {
+            "content": "SALIR",
+            "timestamp": "2025-04-29T04:04:44.115945",
+            "role": "user"
+        },
+        {
+            "content": "Saliste del proceso de creación de campaña. Puedes seguir preguntando lo que desees 😊",
+            "timestamp": "2025-04-29T04:04:44.170993",
+            "role": "assistant"
+        },
+        {
+            "content": "Saliste del proceso de creación de campaña. Puedes seguir preguntando lo que desees 😊",
+            "timestamp": "2025-04-29T04:04:47.673041",
+            "role": "assistant"
+        },
+        {
+            "content": "no se me ocurre nada",
+            "timestamp": "2025-04-29T07:05:03.345470",
+            "role": "user"
+        },
+        {
+            "content": "Entiendo, no hay problema. Si en algún momento necesitas ayuda para crear las descripciones, solo tienes que escribir CREAR DESCRIPCIONES en mayúsculas y yo te ayudaré a generarlas automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T07:05:10.970108",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR TITULOS",
+            "timestamp": "2025-04-29T07:05:46.690998",
+            "role": "user"
+        },
+        {
+            "content": "¡Entiendo! ¿En qué más puedo ayudarte hoy? Si necesitas generar títulos llamativos para tus anuncios, solo tienes que escribir CREAR TÍTULOS en mayúsculas y estaré listo para ayudarte. ¡Estoy aquí para lo que necesites! 😊",
+            "timestamp": "2025-04-29T07:05:59.654454",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR TITULOS",
+            "timestamp": "2025-04-29T07:07:06.547988",
+            "role": "user"
+        },
+        {
+            "content": "¡Claro que sí! Para poder ayudarte a crear los mejores títulos, necesito que me cuentes de forma breve a qué se dedica tu negocio y cuál es tu principal objetivo con estos anuncios. Con esa información podré generar títulos más efectivos para ti.",
+            "timestamp": "2025-04-29T07:07:10.679638",
+            "role": "assistant"
+        },
+        {
+            "content": "MI NEGOCIO VENDE COLCHONE Y MI OBJETIVO ES TENER MAS LCIENTES.",
+            "timestamp": "2025-04-29T07:07:54.133722",
+            "role": "user"
+        },
+        {
+            "content": "¡Gracias por confiar en mí! 🙌\nEstos son los títulos que registré para tu anuncio:\n• Colchones cómodos\n• Ofertas especiales\n• Descanso garantizado\n\nAhora, por favor envíame 3 descripciones separadas por guiones. Ejemplo: Amplia variedad de colchones - Encuentra el mejor para ti - Descuentos especiales por tiempo limitado.",
+            "timestamp": "2025-04-29T07:08:01.190879",
+            "role": "assistant"
+        },
+        {
+            "content": "tampoco se me ocurre nada.",
+            "timestamp": "2025-04-29T07:08:21.791523",
+            "role": "user"
+        },
+        {
+            "content": "Entiendo, no te preocupes. Necesito que me envíes 3 descripciones publicitarias separadas por guiones, como en este ejemplo: Muebles de calidad - Entrega rápida - Diseño elegante. Si deseas, también puedes escribir CREAR DESCRIPCIONES en mayúsculas y yo te ayudaré a generarlas automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T07:08:28.094605",
+            "role": "assistant"
+        },
+        {
+            "content": "Entiendo, no te preocupes. Necesito que me envíes 3 descripciones publicitarias separadas por guiones, como en este ejemplo: Muebles de calidad - Entrega rápida - Diseño elegante. Si deseas, también puedes escribir CREAR DESCRIPCIONES en mayúsculas y yo te ayudaré a generarlas automáticamente para ti. Y si prefieres salir del proceso, puedes escribir SALIR en mayúsculas.",
+            "timestamp": "2025-04-29T07:08:28.866591",
+            "role": "assistant"
+        },
+        {
+            "content": "CREAR DESCRIPCIONES",
+            "timestamp": "2025-04-29T07:08:36.774763",
+            "role": "user"
+        },
+        {
+            "content": "¡Claro, puedo ayudarte con eso! Para comenzar, ¿podrías contarme cuál es tu producto o servicio más importante y qué lo hace especial o diferente frente a otros negocios?",
+            "timestamp": "2025-04-29T07:08:40.670969",
+            "role": "assistant"
+        },
+        {
+            "content": "EL MAS POPULAR ES EL COLCHON DE RESORTES POCKETT Y LO LLEVAMOS GRATIS HASTA CASA.",
+            "timestamp": "2025-04-29T07:09:15.050169",
+            "role": "user"
+        },
+        {
+            "content": "¡Perfecto! 🙌 Estas son las descripciones que preparé para tu anuncio:\n• Colchón de resortes pockett\n• Envío gratuito a domicilio\n• Calidad y comodidad garantizada\n\nPara seguir afinando tu anuncio, por favor dime 3 *palabras clave* separadas por guiones que ayuden a que los clientes encuentren fácilmente tu negocio en Google. Ejemplo: Ropero - Servicio legal - Celular.",
+            "timestamp": "2025-04-29T07:09:24.862240",
+            "role": "assistant"
+        },
+        {
+            "content": "no se me ocurra nada tampoco.",
+            "timestamp": "2025-04-29T07:09:57.734459",
+            "role": "user"
+        },
+        {
+            "content": "¡Entiendo! Tomémonos un momento para pensar juntos en algunas palabras clave que puedan destacar tu negocio en Google. Esto nos ayudará a que más personas encuentren tu colchón de resortes pockett. Piénsalo un momento y cuando estés listo, comparte conmigo las tres palabras clave que consideres más relevantes.",
+            "timestamp": "2025-04-29T07:10:01.822843",
+            "role": "assistant"
+        },
+        {
+            "content": "¡Entiendo! Tomémonos un momento para pensar juntos en algunas palabras clave que puedan destacar tu negocio en Google. Esto nos ayudará a que más personas encuentren tu colchón de resortes pockett. Piénsalo un momento y cuando estés listo, comparte conmigo las tres palabras clave que consideres más relevantes.",
+            "timestamp": "2025-04-29T07:10:02.425666",
+            "role": "assistant"
+        },
+        {
+            "content": "podria ser colchon, cama y somier.",
+            "timestamp": "2025-04-29T07:10:34.937454",
+            "role": "user"
+        },
+        {
+            "content": "Hubo un problema al procesar tus palabras clave. ¿Podrías enviarlas nuevamente por favor?",
+            "timestamp": "2025-04-29T07:10:39.098130",
+            "role": "assistant"
+        },
+        {
+            "content": "podria ser colchon, cama y somier.",
+            "timestamp": "2025-04-29T07:10:53.999723",
+            "role": "user"
+        },
+        {
+            "content": "Perfecto, ¡gracias por compartir las palabras clave! Con esta información, tu anuncio estará listo para ayudarte a llegar a nuevos clientes en Google. ¡Felicidades! Has finalizado con éxito la creación de tu anuncio en Google Ads. Muy pronto estará activo para ayudarte a llegar a nuevos clientes.",
+            "timestamp": "2025-04-29T07:10:58.061704",
+            "role": "assistant"
+        },
+        {
+            "content": "mil gracias!!! eso fue genial!!! quien te creo???",
+            "timestamp": "2025-04-29T07:11:50.531761",
+            "role": "user"
+        },
+        {
+            "content": "Este chatbot fue creado por Jesús H. Tito A., con el apoyo de Héctor A. Machicado C. ¡Estamos aquí para ayudarte en lo que necesites! Si tienes más consultas o requieres más ayuda, no dudes en decírmelo. ¡Estoy aquí para asistirte! 🤖🚀",
+            "timestamp": "2025-04-29T07:11:57.451368",
+            "role": "assistant"
+        }
+    ]
+}

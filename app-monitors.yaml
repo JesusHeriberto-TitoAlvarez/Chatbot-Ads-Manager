@@ -1,0 +1,12 @@
+runtime: python39
+service: monitors  # Nombre del servicio separado para los monitores
+
+entrypoint: >
+  python src/google_sheets/monitor_google_sheets_ad_processing.py & 
+  python src/google_sheets/monitor_google_sheets_campaign_processing.py & 
+  python src/google_sheets/monitor_google_sheets_campaign_ready.py & 
+  python src/google_sheets/monitor_google_sheets_incomplete.py
+
+handlers:
+- url: /.*
+  script: auto

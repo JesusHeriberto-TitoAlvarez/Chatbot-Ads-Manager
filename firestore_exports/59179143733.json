@@ -1,0 +1,56 @@
+{
+    "ultima_actualizacion": "2025-04-08T00:13:21.737837",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "hola",
+            "timestamp": "2025-04-08T00:11:24.783187",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-08T00:11:25.890499",
+            "role": "assistant"
+        },
+        {
+            "content": "que tal estará el clima mañana",
+            "timestamp": "2025-04-08T00:12:07.286919",
+            "role": "user"
+        },
+        {
+            "content": "¡Hola! ¿En qué puedo ayudarte con Google Ads hoy?",
+            "timestamp": "2025-04-08T00:12:09.859546",
+            "role": "assistant"
+        },
+        {
+            "content": "solo quiero saber el clima de mañana",
+            "timestamp": "2025-04-08T00:12:31.184009",
+            "role": "user"
+        },
+        {
+            "content": "Lo siento, pero mi función es ayudarte con Google Ads. Para información sobre el clima, te recomendaría verificar una aplicación meteorológica o sitio web especializado. ¿Hay algo más en lo que pueda asistirte con Google Ads?",
+            "timestamp": "2025-04-08T00:12:38.655894",
+            "role": "assistant"
+        },
+        {
+            "content": "si",
+            "timestamp": "2025-04-08T00:12:54.751037",
+            "role": "user"
+        },
+        {
+            "content": "¡Perfecto! Estoy aquí para ayudarte. ¿En qué tema específico de Google Ads necesitas asistencia? ¡Pregunta sin dudarlo!",
+            "timestamp": "2025-04-08T00:12:56.777367",
+            "role": "assistant"
+        },
+        {
+            "content": "quisiera un resumen de las noticias de este dia",
+            "timestamp": "2025-04-08T00:13:18.363886",
+            "role": "user"
+        },
+        {
+            "content": "Lo siento, mi función es ayudarte con Google Ads. Si necesitas ayuda con publicidad digital, ¡aquí estoy para ayudarte! ¿Qué dudas tienes o en qué aspecto de Google Ads te gustaría recibir asesoramiento?",
+            "timestamp": "2025-04-08T00:13:21.737837",
+            "role": "assistant"
+        }
+    ]
+}

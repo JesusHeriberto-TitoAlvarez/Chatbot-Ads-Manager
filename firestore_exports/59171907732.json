@@ -1,0 +1,26 @@
+{
+    "ultima_actualizacion": "2025-04-07T20:59:42.980802",
+    "nombre": "Usuario",
+    "historial": [
+        {
+            "content": "Hola",
+            "timestamp": "2025-04-07T20:59:12.742682",
+            "role": "user"
+        },
+        {
+            "content": "*¡Hola! 👋 Esta es una versión de prueba de Chatbot Ads Manager.*\n\nEstoy diseñado para ayudarte a entender y usar la publicidad digital, especialmente en la plataforma Google Ads.\n\nSi encuentras algún error o tienes sugerencias para mejorar, puedes escribirme directamente por este mismo chat. Tu opinión es muy valiosa para seguir mejorando la experiencia. ¡Gracias por confiar en mí! 🙌",
+            "timestamp": "2025-04-07T20:59:13.556621",
+            "role": "assistant"
+        },
+        {
+            "content": "Sabes quiero un contexto de lo que haces",
+            "timestamp": "2025-04-07T20:59:40.032548",
+            "role": "user"
+        },
+        {
+            "content": "¡Claro! Estoy aquí para ayudarte a entender y utilizar Google Ads, una plataforma de publicidad online. Puedo responder tus preguntas sobre cómo crear anuncios, seleccionar palabras clave, ajustar presupuestos y mucho más. Si necesitas consejos, tips o simplemente quieres aprender a sacarle el máximo provecho a tus campañas publicitarias en Google, ¡estoy aquí para ayudarte! ¿En qué puedo asistirte hoy? 😊",
+            "timestamp": "2025-04-07T20:59:42.980802",
+            "role": "assistant"
+        }
+    ]
+}
